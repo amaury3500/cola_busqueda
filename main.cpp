@@ -56,7 +56,7 @@ int main()
                             }else if(micola.Buscar(X)>=0){
                                 cout<<"\n\tsolicitud encontrada!\nContancias restantes: #"<<micola.Buscar(X)<<endl<<endl;
                             }else{
-                                cout<<"\nConstancia no encontrada, favor de solicitar una."<<endl<<endl;
+                                cout<<"\nConstancia no encontrada."<<endl<<endl;
                             }
                     }
                     system("pause");
