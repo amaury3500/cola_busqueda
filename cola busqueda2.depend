@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1679360872 source:c:\users\amaur\documents\cola busqueda2\main.cpp
+	<iostream>
+	"Cola.h"
+	"Constancia.h"
+
+1679360872 c:\users\amaur\documents\cola busqueda2\cola.h
+	<iostream>
+	"Constancia.h"
+
+1679360872 c:\users\amaur\documents\cola busqueda2\include\constancia.h
+	<iostream>
+
+1679360872 source:c:\users\amaur\documents\cola busqueda2\src\constancia.cpp
+	"Constancia.h"
+
